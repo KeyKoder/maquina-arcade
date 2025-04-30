@@ -11,3 +11,11 @@ Los "juegos" son interactivos:
 * Puedes intentar hacer que un caballo recorra todas las casillas de un tablero NxN (comúnmente 8x8) sin que pase dos veces por la misma casilla.
 
 ...O puedes dejar que el ordenador los resuelva por ti.
+
+
+---
+
+
+# Enlace al repo
+
+[``https://github.com/KeyKoder/maquina-arcade.git``](https://github.com/KeyKoder/maquina-arcade.git)
