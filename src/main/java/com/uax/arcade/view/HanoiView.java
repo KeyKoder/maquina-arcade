@@ -164,8 +164,7 @@ public class HanoiView extends TVView {
 			flexLayout.add(towerDivs[i]);
 		}
 
-		clearTowers();
-		spawnDisks(3);
+		updateDisks(diskNumber);
 
 		this.finishBuilding(title, controls, flexLayout);
 	}
