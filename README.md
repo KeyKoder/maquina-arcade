@@ -15,6 +15,19 @@ Los "juegos" son interactivos:
 
 ---
 
+# Breve comentario sobre el desarrollo
+
+Aunque al principio no supuso mucho problema el desarrollar las soluciones iniciales (el que simplemente se resuelvan los 3 problemas presentados de forma automática).
+El traspaso a Vaadin me ha costado bastante, me ha costado acostumbrarme a como se hacen las cosas.
+
+Además, he tenido problemas al intentar montar la persistencia con Hibernate debido al uso de Genéricos en el proyecto.
+
+Por otro lado, me costó empezar el proyecto, porque no veía la manera de integrar de forma natural ningún patrón estructural, lo que me hizo quedarme estancado.
+(o por lo menos no vi ninguna forma de hacerlo sin que fuera forzado como se pide).
+
+Esto, juntado a problemas personales y una mala gestión del tiempo en general ha llevado a lo que es el proyecto ahora.
+
+---
 
 # Enlace al repo
 
